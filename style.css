@@ -41,6 +41,10 @@ body {
   background: var(--clr-neutral-500);
 }
 
+main {
+  min-height: 100vh;
+}
+
 /* || CUSTOM UTILITIES */
 /* -- layout */
 .flex { 
